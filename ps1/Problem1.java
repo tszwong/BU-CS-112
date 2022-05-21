@@ -1,7 +1,9 @@
 /*
  * Problem1.java
  * 
- * A program with lots of syntax errors!
+ * Fixing a program with lots of syntax errors!
+ * 
+ * Completed by: Tsz Kit Wong
  */
 
 import java.util.*;
