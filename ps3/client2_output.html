@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+c1 = red 4
+c2 = green 9
+c3 = blue 0
+c4 = red 9
+c5 = green 9
+
+c1.matches(c1) = true
+c1.matches(c2) = false
+c1.matches(c4) = true
+c2.matches(c3) = false
+c2.matches(c4) = true
+c2.matches(c5) = true
+c2.matches(null) = false
+
+c1.equals(c1) = true
+c1.equals(c2) = false
+c1.equals(c4) = false
+c2.equals(c3) = false
+c2.equals(c4) = false
+c2.equals(c5) = true
+c2.equals(null) = false
+</pre>
+
+</body>
+</html>
