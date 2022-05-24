@@ -1,2 +1,2 @@
 # CS-112
-CS 112 Java, Projects and Problem Sets done by me
+Boston University's CS112 Java, Projects and Problem Sets done by me
