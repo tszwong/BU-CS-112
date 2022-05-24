@@ -22,6 +22,11 @@ public class Card {
     private String color;
     private int value;
 
+    public Card(String color, int value) {
+        this.setColor(color);
+        this.setValue(value);
+    }
+
     public String getColor() {
         return this.color;
     }
@@ -51,11 +56,6 @@ public class Card {
             throw new IllegalArgumentException();
         }
         this.value = newValue;
-    }
-
-    public Card(String color, int value) {
-        this.setColor(color);
-        this.setValue(value);
     }
 
     public String toString() {
