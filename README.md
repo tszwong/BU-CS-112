@@ -1,7 +1,7 @@
 # CS-112
 Boston University's CS112, Projects and Problem Sets </br>
 
-Course: Boston University CS 111 </br>
+Course: Boston University CS 112 </br>
 Year: 2022 Spring Semester
 <br/><br/>
 
