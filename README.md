@@ -1,5 +1,5 @@
 # CS-112
-Boston University's CS112 Java, Projects and Problem Sets
+Boston University's CS112, Projects and Problem Sets
 <br/><br/>
 Key Assignments: <br/>
 ----
